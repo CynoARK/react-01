@@ -1,0 +1,14 @@
+.container-counter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 445px;
+    height: 100px;
+    border-radius: 5px;
+    margin: 0 auto;
+    background-color: rgb(255, 204, 0);
+}
+.container-counter span{
+    font-weight: bold;
+}
